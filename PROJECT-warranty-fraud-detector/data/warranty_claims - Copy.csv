@@ -1,0 +1,5 @@
+claim_id,model,purchase_date,claim_date,days_since_purchase,mileage,part_replaced,part_cost,labor_cost,total_cost,invoice_present,image_present,previous_claims
+CLM-DEMO-1,"Volt-X (Four-Wheeler, EV Sedan)",8/8/2024,5/24/2025,289,7363,Headlight,231,199,430,1,1,1
+CLM-DEMO-2,"Pulse-3 (Two-Wheeler, Sports Bike)",6/12/2024,2/9/2025,242,1395,Fuel Pump,834,272,1106,1,0,4
+CLM-DEMO-3,"Torque-7 (Four-Wheeler, SUV Diesel)",11/7/2024,5/6/2025,180,4238,Brake Pad,1055,186,1241,1,1,1
+CLM-DEMO-APPROVED,"Volt-X (Four-Wheeler, EV Sedan)",1/1/2024,6/1/2024,150,8500,Brake Pad,200,100,300,1,1,0
