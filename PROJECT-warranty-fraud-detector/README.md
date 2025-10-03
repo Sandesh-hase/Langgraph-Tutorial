@@ -1,5 +1,8 @@
 # Warranty Fraud Detector (Langgraph Tutorial)
 
+<img width="1910" height="942" alt="Screenshot 2025-10-03 103030" src="https://github.com/user-attachments/assets/876111df-6741-43b3-b4af-d0cdeaba4558" />
+
+
 A small demo project that uses LangGraph + an Azure OpenAI-backed LLM to validate warranty claims, score fraud likelihood, collect evidence, and make an adjudication decision. The project includes a Streamlit app (`app.py`) and a demonstration notebook (`agent.ipynb`).
 
 Purpose: This repository is provided for study and educational purposes only. You are free to use, adapt, and experiment with the code for learning, demonstrations, and research. It is not intended as a production-ready system. If you plan to use this code with real data or in production, implement appropriate security, privacy, and compliance measures before doing so.
